@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/llContent"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_vertical"
+    android:paddingTop="10dp"
+    android:paddingBottom="10dp"
+    android:weightSum="6">
+
+    <TextView
+        android:id="@+id/txtSerialNumber"
+        android:layout_width="0dp"
+        android:layout_weight="0.9"
+        android:layout_height="wrap_content"
+        android:text="S no."
+        android:textSize="14sp"
+        android:textAlignment="center"/>
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_weight="3.4"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/txtNameOfDish"
+            android:text="Name of Dish"
+            android:textStyle="bold"
+            android:textSize="14sp"
+            android:textColor="#000"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/txtDishPrice"
+            android:text="Rs. 100"
+            android:layout_marginTop="5dp"
+            android:textSize="13sp"/>
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btnAddToCart"
+        android:layout_width="0dp"
+        android:layout_weight="1.7"
+        android:layout_height="30dp"
+        android:text="@string/add"
+        android:background="@color/colorPrimary"
+        android:textColor="#fff"
+        android:textStyle="bold"
+        android:elevation="5dp"
+        android:textAllCaps="false"/>
+
+</LinearLayout>
