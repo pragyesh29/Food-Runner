@@ -11,6 +11,4 @@ Following concepts are implemented in this app -:
 * Using a HTTP library "Volley" and a powerful image downlaod and catching library "Picasso" for displaying images.
 
 ## Splash Screen
-<div style = "display:flex; justify-content:center">
-  <img src="https://user-images.githubusercontent.com/56395441/196800748-74cf68c3-b320-4f41-9134-c02062b89535.jpg" width = "120" height = "220">
-</div>
+<img style = "display: block; margin:auto;" src="https://user-images.githubusercontent.com/56395441/196800748-74cf68c3-b320-4f41-9134-c02062b89535.jpg" width = "120" height = "220">
