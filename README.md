@@ -12,4 +12,4 @@ Following concepts are implemented in this app -:
 
 ## Splash Screen
 
-<img src="https://user-images.githubusercontent.com/56395441/196800748-74cf68c3-b320-4f41-9134-c02062b89535.jpg" width = "100" height = "200">
+<img src="https://user-images.githubusercontent.com/56395441/196800748-74cf68c3-b320-4f41-9134-c02062b89535.jpg" width = "140" height = "200">
