@@ -11,4 +11,4 @@ Following concepts are implemented in this app -:
 * Using a HTTP library "Volley" and a powerful image downlaod and catching library "Picasso" for displaying images.
 
 ## Splash Screen
-![splash](https://user-images.githubusercontent.com/56395441/196795430-fe9061d0-bb75-46a3-81fb-09b8eca83030.jpg)
+![splash](https://user-images.githubusercontent.com/56395441/196797514-0c682629-4367-4f25-9e63-ca00ad2e1060.jpg | width=100)
